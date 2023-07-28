@@ -1,0 +1,99 @@
+EPOCH: 0
+Loss=1.3771775960922241 LR=0.025425398773006133 Batch_id=97 Accuracy=36.02: 100%|██████████| 98/98 [00:13<00:00,  7.53it/s] 
+
+Test set: Average loss: 0.0029, Accuracy: 4886/10000 (48.86%)
+
+EPOCH: 1
+Loss=1.0943952798843384 LR=0.04963079754601227 Batch_id=97 Accuracy=55.59: 100%|██████████| 98/98 [00:12<00:00,  7.59it/s] 
+
+Test set: Average loss: 0.0025, Accuracy: 5889/10000 (58.89%)
+
+EPOCH: 2
+Loss=0.9193654656410217 LR=0.0738361963190184 Batch_id=97 Accuracy=66.02: 100%|██████████| 98/98 [00:13<00:00,  7.50it/s]  
+
+Test set: Average loss: 0.0020, Accuracy: 6695/10000 (66.95%)
+
+EPOCH: 3
+Loss=0.9256299138069153 LR=0.09804159509202454 Batch_id=97 Accuracy=72.88: 100%|██████████| 98/98 [00:12<00:00,  7.57it/s]
+
+Test set: Average loss: 0.0021, Accuracy: 6953/10000 (69.53%)
+
+EPOCH: 4
+Loss=0.6070752143859863 LR=0.12191701510204081 Batch_id=97 Accuracy=76.53: 100%|██████████| 98/98 [00:12<00:00,  7.56it/s]
+
+Test set: Average loss: 0.0020, Accuracy: 7125/10000 (71.25%)
+
+EPOCH: 5
+Loss=0.5429543256759644 LR=0.11378449510204082 Batch_id=97 Accuracy=80.43: 100%|██████████| 98/98 [00:13<00:00,  7.52it/s] 
+
+Test set: Average loss: 0.0017, Accuracy: 7597/10000 (75.97%)
+
+EPOCH: 6
+Loss=0.4227260947227478 LR=0.10565197510204082 Batch_id=97 Accuracy=83.31: 100%|██████████| 98/98 [00:13<00:00,  7.50it/s] 
+
+Test set: Average loss: 0.0015, Accuracy: 7675/10000 (76.75%)
+
+EPOCH: 7
+Loss=0.4076921343803406 LR=0.09751945510204081 Batch_id=97 Accuracy=85.96: 100%|██████████| 98/98 [00:12<00:00,  7.58it/s] 
+
+Test set: Average loss: 0.0015, Accuracy: 7789/10000 (77.89%)
+
+EPOCH: 8
+Loss=0.3136484920978546 LR=0.08938693510204082 Batch_id=97 Accuracy=88.60: 100%|██████████| 98/98 [00:13<00:00,  7.52it/s] 
+
+Test set: Average loss: 0.0015, Accuracy: 7910/10000 (79.10%)
+
+EPOCH: 9
+Loss=0.2881743609905243 LR=0.08125441510204082 Batch_id=97 Accuracy=90.19: 100%|██████████| 98/98 [00:13<00:00,  7.53it/s] 
+
+Test set: Average loss: 0.0013, Accuracy: 8137/10000 (81.37%)
+
+EPOCH: 10
+Loss=0.1924242526292801 LR=0.07312189510204081 Batch_id=97 Accuracy=91.54: 100%|██████████| 98/98 [00:13<00:00,  7.29it/s] 
+
+Test set: Average loss: 0.0016, Accuracy: 7893/10000 (78.93%)
+
+EPOCH: 11
+Loss=0.21671226620674133 LR=0.06498937510204081 Batch_id=97 Accuracy=92.76: 100%|██████████| 98/98 [00:12<00:00,  7.58it/s]
+
+Test set: Average loss: 0.0019, Accuracy: 7733/10000 (77.33%)
+
+EPOCH: 12
+Loss=0.20734278857707977 LR=0.05685685510204082 Batch_id=97 Accuracy=94.28: 100%|██████████| 98/98 [00:13<00:00,  7.50it/s] 
+
+Test set: Average loss: 0.0024, Accuracy: 7485/10000 (74.85%)
+
+EPOCH: 13
+Loss=0.16079910099506378 LR=0.048724335102040814 Batch_id=97 Accuracy=94.91: 100%|██████████| 98/98 [00:13<00:00,  7.53it/s]
+
+Test set: Average loss: 0.0013, Accuracy: 8333/10000 (83.33%)
+
+EPOCH: 14
+Loss=0.11037769913673401 LR=0.040591815102040824 Batch_id=97 Accuracy=95.75: 100%|██████████| 98/98 [00:12<00:00,  7.57it/s]
+
+Test set: Average loss: 0.0012, Accuracy: 8457/10000 (84.57%)
+
+EPOCH: 15
+Loss=0.06533478200435638 LR=0.03245929510204082 Batch_id=97 Accuracy=96.51: 100%|██████████| 98/98 [00:12<00:00,  7.57it/s] 
+
+Test set: Average loss: 0.0014, Accuracy: 8443/10000 (84.43%)
+
+EPOCH: 16
+Loss=0.06987624615430832 LR=0.024326775102040815 Batch_id=97 Accuracy=97.31: 100%|██████████| 98/98 [00:12<00:00,  7.57it/s] 
+
+Test set: Average loss: 0.0013, Accuracy: 8510/10000 (85.10%)
+
+EPOCH: 17
+Loss=0.04794525355100632 LR=0.016194255102040825 Batch_id=97 Accuracy=97.76: 100%|██████████| 98/98 [00:12<00:00,  7.57it/s] 
+
+Test set: Average loss: 0.0012, Accuracy: 8582/10000 (85.82%)
+
+EPOCH: 18
+Loss=0.05933768302202225 LR=0.00806173510204082 Batch_id=97 Accuracy=98.29: 100%|██████████| 98/98 [00:13<00:00,  7.49it/s]  
+
+Test set: Average loss: 0.0012, Accuracy: 8632/10000 (86.32%)
+
+EPOCH: 19
+Loss=0.03376833349466324 LR=-7.078489795916965e-05 Batch_id=97 Accuracy=98.75: 100%|██████████| 98/98 [00:12<00:00,  7.56it/s]
+
+Test set: Average loss: 0.0011, Accuracy: 8682/10000 (86.82%)
